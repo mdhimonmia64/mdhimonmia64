@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co.com/prxcHF22/githubhimonmia.png)
+![Web Developer](https://i.ibb.co.com/0jkVMjnT/update-himon.png)
 
 ### Hi there 👋, I'm MD Himon Mia
 #### MERN Stack Developer | React & Next.js Enthusiast | Building Scalable Web Applications | Lifelong Learner
