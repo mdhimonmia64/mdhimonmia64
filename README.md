@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm MD Himon Mia
 #### MERN Stack Developer | React & Next.js Enthusiast | Building Scalable Web Applications | Lifelong Learner
-🚀 About Me 
+## 🚀 About Me
 MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications.
 Experienced with JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, and REST APIs.
 Focused on writing clean code, creating great user experiences, and continuously learning new technologies.
