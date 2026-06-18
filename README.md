@@ -44,20 +44,26 @@ MERN Stack Developer portfolio showcasing React, Next.js, Node.js, and modern we
 🤝 Client:https://github.com/mdhimonmia64/my-portfolio
 
 ## 🚚 Parcel Delivery Service
- Parcel Delivery Service web app for booking, tracking, and managing deliveries with real-time updates.
+Parcel Delivery Service web app for booking, tracking, and managing deliveries with real-time updates.
 🌐 Live Demo:https://auth-firebase-router-bb1ac.web.app
+
 🤝 Client:https://github.com/mdhimonmia64/zap-shift-client
+
 🔗 Server:https://github.com/mdhimonmia64/zap-shift-server
 
 ## 🚗 Car Doctor Resources
- Car Doctor Resources platform for car service info, repair guides, and maintenance support online.
+Car Doctor Resources platform for car service info, repair guides, and maintenance support online.
 🌐 Live Demo:https://car-doctor-resources.vercel.app/
+
 🤝 Client:https://github.com/mdhimonmia64/cars-doctors-resources
 
 ## 🌱 Garden Community
 Garden Community platform for connecting users, sharing tips, and managing gardening activities online.
+
 🌐 Live Demo:https://remarkable-bavarois-4fbfd9.netlify.app/
+
 🤝 Client:https://github.com/mdhimonmia64/gardening-community-client1
+
 🔗 Server:https://github.com/mdhimonmia64/gardening-community-server1
 
 # 📊 GitHub Stats:
